@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mail Bites</title>
-    <link>https://github.com/mkhosla11/mail-bites-landing-page/tags/</link>
+    <link>https://mkhosla11.github.io/mail-bites-landing-page/tags/</link>
     <description>Recent content in Tags on Mail Bites</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Fiona Jiang, Mona Khosla, Megan Zhang, Darren Mo</copyright>
-    <atom:link href="https://github.com/mkhosla11/mail-bites-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkhosla11.github.io/mail-bites-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://github.com/mkhosla11/mail-bites-landing-page/tags/index/</link>
+      <link>https://mkhosla11.github.io/mail-bites-landing-page/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/mkhosla11/mail-bites-landing-page/tags/index/</guid>
+      <guid>https://mkhosla11.github.io/mail-bites-landing-page/tags/index/</guid>
       <description></description>
     </item>
   </channel>
