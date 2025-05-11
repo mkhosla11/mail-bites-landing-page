@@ -1,10 +1,10 @@
 .home {
-    --bd-purple: #4c0bce;
-    --bd-violet: #712cf9;
-    --bd-accent: #ffe484;
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
-    --bd-accent-rgb: 255,228,132;
-    --bd-pink-rgb: 214,51,132;
+    --bd-purple: #00225c;
+    --bd-violet: #006bc2;
+    --bd-accent: #5ca0ff;
+    --bd-violet-rgb: 0, 34, 92;   /* RGB version of #0853d4 */
+    --bd-accent-rgb: 0, 107, 194; /* RGB version of #5da0ff */
+    --bd-pink-rgb: 92, 160, 255; 
 
     .bd-masthead {
         padding: 3rem 0;
@@ -14,23 +14,21 @@
     .btn-bd-primary {
         --bs-btn-font-weight: 600;
         --bs-btn-color: var(--bs-white);
-        --bs-btn-bg: var(--bd-violet);
-        --bs-btn-border-color: var(--bd-violet);
+        --bs-btn-bg: #00225d;
+        --bs-btn-border-color: #00225d;
         --bs-btn-border-radius: .5rem;
-        --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
-        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-        --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-hover-color: #00225d;
+        --bs-btn-hover-bg: #00225d;
+        --bs-btn-hover-border-color: #00225d;
+        --bs-btn-focus-shadow-rgb: #00225d;
+        --bs-btn-active-color: #00225d;
+        --bs-btn-active-bg: #00225d;
+        --bs-btn-active-border-color: #00225d;
     }
 }
 
 .navbar {
     @extend .navbar-dark;
-
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
     
     padding: .75rem 0;
     background-color: transparent;
@@ -39,7 +37,7 @@
 }
 
 .text-violet {
-    color: #6528e0;
+    color: #00225c;
 }
 
 .list {
