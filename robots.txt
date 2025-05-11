@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://github.com/mkhosla11/mail-bites-landing-page/sitemap.xml
